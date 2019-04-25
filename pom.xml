@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>riot</artifactId>
-    <version>3.13.2</version>
+    <version>3.13.3-SNAPSHOT</version>
     <name>riot</name>
     <description>WebJar for riot</description>
     <url>http://webjars.org</url>
@@ -48,7 +48,7 @@
         <url>http://github.com/webjars/riot</url>
         <connection>scm:git:https://github.com/webjars/riot.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/riot.git</developerConnection>
-        <tag>riot-3.13.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
